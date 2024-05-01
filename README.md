@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Dhiraj Arya!
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech 👩🏻‍💻<br/>
 👩🏻‍🎓 Studied 12th I.SC at the SMD collage, Punpun, Patna 👩🏻‍🎓<br/>
-🎨 Making videos about Coding, vlog, and productivity on [YouTube](https://www.youtube.com/@devdhirajarya) 🎨<br/>
+🎨 Making videos about Coding, vlog, and productivity on [YouTube](https://www.youtube.com/@dhirajaryaa) 🎨<br/>
 💭 Currently Restarted my journey focus on basic! 💭<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=devdhirajarya&show_icons=true&theme=tokyonight)<br/>
+![](https://github-readme-stats.vercel.app/api?username=dhirajaryaa&show_icons=true&theme=tokyonight)<br/>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
